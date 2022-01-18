@@ -1,0 +1,1 @@
+# SeC-GAN-Generative-Adversarial-Network-for-Just-in-Time-Defect-Prediction-with-Semantic-Changes-Sen
